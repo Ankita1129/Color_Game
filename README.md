@@ -13,7 +13,7 @@ This project is built using HTML, CSS and JS. The project consists of MCQ format
  - JavaScript
 
 
-## Authors
+## Author
 
 - [@Ankita1129](https://github.com/Ankita1129)
 
